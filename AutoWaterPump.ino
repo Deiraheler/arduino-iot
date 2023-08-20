@@ -15,7 +15,7 @@ void loop() {
   // Read the value from the moisture sensor
   sensorValue = analogRead(moistureSensor);
 
-  // Map the sensor value to a percentage (assuming 500 is 100% and 0 is 0%)
+  // Map the sensor value to a percentage (assuming 550 is 100% and 0 is 0%)
   int moisturePercent = map(sensorValue, 0, 550, 0, 100);
 
   // If the sensor value is below the dryness threshold, activate the pump

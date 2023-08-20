@@ -18,6 +18,4 @@ The components used in our system include:
 
 5. **Water Tubing**: This tubing is installed across the field to transport water from the pump to the plants.
 
-6. **Power Supply**: We have carefully selected an appropriate power supply for our Arduino and the water pump to match the voltage and current requirements of our components.
-
-7. **Wires and Connectors**: Various wires and connectors are used to wire the components together, ensuring safe and reliable operation of the system.
+6. **Wires and Connectors**: Various wires and connectors are used to wire the components together, ensuring safe and reliable operation of the system.

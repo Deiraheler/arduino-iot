@@ -19,3 +19,8 @@ The components used in our system include:
 5. **Water Tubing**: This tubing is installed across the field to transport water from the pump to the plants.
 
 6. **Wires and Connectors**: Various wires and connectors are used to wire the components together, ensuring safe and reliable operation of the system.
+
+---------------------------------------------------------------
+** API and Internet connection is not included in project**
+
+The current design of this project operates without internet connectivity, hence it doesn't incorporate any API integrations or remote control via applications or websites. I dedicated several months to integrating the ESP8266-01 internet module, experimenting with varied configurations and circuitry arrangements. While I faced challenges in this phase, I remain undeterred. My ongoing research aims to successfully incorporate this module into the system. Once achieved, my next goal is to develop a web application to interface with the Arduino through an API. This would be similar to the demonstration I presented in class, where I utilized 'HTML, CSS, JS, AJAX, PHP, and CURL' to remotely control lighting without needing to navigate to different pages, thanks to AJAX and PHP.
